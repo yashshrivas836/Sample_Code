@@ -1,0 +1,74 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build directories
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.swo
+*.orig
+
+# Git
+.git/
+*.patch
+*.diff
+
+# Compiled code
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Java
+*.jar
+*.war
+*.ear
+
+# Other build artifacts
+*.out
+*.a
+
+# Coverage reports
+coverage/
+*.lcov
+
